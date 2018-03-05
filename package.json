@@ -1,0 +1,22 @@
+{
+  "name": "starter-gulp",
+  "version": "1.0.0",
+  "description": "html 5 starter kit with gulp-sass preprocessor and yarn",
+  "main": "app.js",
+  "author": "Benjamin Pinel",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "gulp-sass": "^3.1.0",
+    "gulp-autoprefixer": "latest",
+    "gulp-concat": "^2.6.1",
+    "gulp-cssbeautify": "latest",
+    "gulp-csscomb": "latest",
+    "gulp-csso": "latest",
+    "gulp-load-plugins": "latest",
+    "gulp-plumber": "^1.1.0",
+    "gulp-rename": "latest"
+  }
+}
